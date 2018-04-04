@@ -1,6 +1,6 @@
 import os
 
-ORCAD_PROJECTS_FOLDER = r'C:\Users\josemi\Dropbox'
+ORCAD_PROJECTS_FOLDER = r'C:\OrCAD_Project_Folder'
 
 def find_all_dats(path):
 	files_found = []
